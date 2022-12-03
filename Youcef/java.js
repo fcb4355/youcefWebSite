@@ -1,0 +1,1 @@
+// document.getElementById("star").style.color="red"

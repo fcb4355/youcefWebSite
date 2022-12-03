@@ -1,0 +1,101 @@
+.c-black
+{
+    color: black;
+}
+.c-blue
+{
+    color: rgb(0, 119, 255);
+}
+.c-gold
+{
+    color: gold;
+}
+.c-red
+{
+    color: red;
+}
+.bg-blue
+{
+    background-color: rgb(0, 119, 255);
+}
+.c-white
+{
+    color: white;
+}
+.bg-white
+{
+    background-color: white;
+}
+.bg-white2
+{
+    background-color: #fafafa;
+}
+.bg-grey
+{
+    background-color:#eee;
+}
+.bg-grey2
+{
+    background-color: grey;
+}
+.f-bold
+{
+    font-weight: bold;
+}
+.s-20
+{
+    font-size: 20px;
+}
+.ml-r-10
+{
+    margin: 0 10px;
+}
+.mb-10
+{
+    margin-bottom: 10px;
+}
+.p-20
+{
+    padding: 20px;
+}
+.p-10
+{
+    padding: 10px;
+}
+
+.rad-6
+{
+    border-radius: 6px;
+}
+.rad-10
+{
+    border-radius: 10px;
+}
+.rad-half
+{
+    border-radius: 50%;
+}
+/*-----------------------------------------------*/
+/*-----------------------------------------------*/
+/*-----------------------------------------------*/
+/*-----------------------------------------------*/
+.d-flex-round
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.d-flex-betw
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.d-grid
+{
+    display: grid;
+}
+/*-----------------------------------------------*/
+/*-----------------------------------------------*/
+/*-----------------------------------------------*/
